@@ -1,3 +1,6 @@
+Additional Information:
+http://dev.mlsdigital.net/posts/how-to-resign-an-ios-app-from-external-developers/
+
 ##Table of Contents
 
 1. [Introduction](#introduction)
